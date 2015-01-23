@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>json2</artifactId>
-    <version>20110224-SNAPSHOT</version>
+    <version>20140204-SNAPSHOT</version>
     <name>JSON2</name>
     <description>WebJar for JSON2</description>
     <url>http://webjars.org</url>
@@ -37,11 +37,16 @@
             <name>James Ward</name>
             <email>james@jamesward.org</email>
         </developer>
+        <developer>
+            <id>himanshu4141</id>
+            <name>Himanshu Yadav</name>
+            <email>himanshu4141@gmail.com</email>
+        </developer>
     </developers>
     
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstreamVersion>20110223</upstreamVersion>
+        <upstreamVersion>20140204</upstreamVersion>
         <downloadUrl>https://cdnjs.cloudflare.com/ajax/libs/json2/${upstreamVersion}</downloadUrl>
         <destinationDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstreamVersion}</destinationDir>
     </properties>
