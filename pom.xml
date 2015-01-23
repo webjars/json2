@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>json2</artifactId>
-    <version>20140204-SNAPSHOT</version>
+    <version>20140204</version>
     <name>JSON2</name>
     <description>WebJar for JSON2</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/json2</url>
         <connection>scm:git:https://github.com/webjars/json2.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/json2.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>json2-20140204</tag>
     </scm>
 
     <developers>
